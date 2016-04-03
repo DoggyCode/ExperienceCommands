@@ -1,0 +1,19 @@
+##################################
+#                                #
+# EXPCommand developed by ExpDev #
+#                                #
+##################################
+
+#all lowercase please!
+commands:
+  fix:
+    #permission that is needed to perform this command
+    permission: 'essentials.fix'
+    #how much levels it should cost
+    level: 60
+  heal:
+    permission: 'essentials.heal'
+    level: 10
+  tpa:
+    permission: 'essentials.tpa'
+    level: 1

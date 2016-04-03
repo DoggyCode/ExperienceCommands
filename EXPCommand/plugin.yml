@@ -1,0 +1,8 @@
+name: ExpCommand
+author: ExpDev
+version: 1.0
+main: me.expdev.expcommand.ExpCommand
+description: Pay to execute commands using EXP Levels!
+commands:
+  expcommand:
+    description: View Plugin information
